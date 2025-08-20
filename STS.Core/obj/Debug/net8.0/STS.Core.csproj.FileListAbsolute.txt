@@ -1,0 +1,12 @@
+C:\Users\90553\source\repos\STSMonitor\STS.Core\bin\Debug\net8.0\STS.Core.deps.json
+C:\Users\90553\source\repos\STSMonitor\STS.Core\bin\Debug\net8.0\STS.Core.dll
+C:\Users\90553\source\repos\STSMonitor\STS.Core\bin\Debug\net8.0\STS.Core.pdb
+C:\Users\90553\source\repos\STSMonitor\STS.Core\obj\Debug\net8.0\STS.Core.csproj.AssemblyReference.cache
+C:\Users\90553\source\repos\STSMonitor\STS.Core\obj\Debug\net8.0\STS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90553\source\repos\STSMonitor\STS.Core\obj\Debug\net8.0\STS.Core.AssemblyInfoInputs.cache
+C:\Users\90553\source\repos\STSMonitor\STS.Core\obj\Debug\net8.0\STS.Core.AssemblyInfo.cs
+C:\Users\90553\source\repos\STSMonitor\STS.Core\obj\Debug\net8.0\STS.Core.csproj.CoreCompileInputs.cache
+C:\Users\90553\source\repos\STSMonitor\STS.Core\obj\Debug\net8.0\STS.Core.dll
+C:\Users\90553\source\repos\STSMonitor\STS.Core\obj\Debug\net8.0\refint\STS.Core.dll
+C:\Users\90553\source\repos\STSMonitor\STS.Core\obj\Debug\net8.0\STS.Core.pdb
+C:\Users\90553\source\repos\STSMonitor\STS.Core\obj\Debug\net8.0\ref\STS.Core.dll
